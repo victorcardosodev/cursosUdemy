@@ -1,3 +1,5 @@
+//entrada de dados de diversos tipos;
+
 let idade = 19;
 console.log (typeof idade);
 

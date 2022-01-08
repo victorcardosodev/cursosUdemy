@@ -1,4 +1,4 @@
-
+//entrada de dados constantes e soma de dados;
 
 var a = 5;
 

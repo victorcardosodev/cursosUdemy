@@ -1,3 +1,5 @@
+//apresentação de entrada de dados e variaveis;
+
 console.log(19.9 * 0.6);
 
 let preco = 19.9;
