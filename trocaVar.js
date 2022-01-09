@@ -21,3 +21,4 @@ let e = 50;
 
 console.log ("Variavel d: " + d);
 console.log ("Variavel e: " + e);
+
