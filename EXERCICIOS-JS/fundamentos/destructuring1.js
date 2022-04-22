@@ -23,7 +23,7 @@ let number = pessoa.endereco.numero;
 console.log(number);
 
 const { endereco: {logradouro: log, numero: num } } = pessoa;
-console.log(log, num); // Forma de desestriturar um dado aninhado com destructuring
+console.log(log, num); // Forma de desestruturar um dado aninhado com destructuring
 
 const { sobrenome, bemHumorada = true } = pessoa;
 console.log (sobrenome, bemHumorada);
