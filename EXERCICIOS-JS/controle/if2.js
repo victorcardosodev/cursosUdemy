@@ -5,7 +5,7 @@ function teste1(num) {
 }
 
 teste1(6);
-teste1(8);
+teste1();
 
 function teste2(num) {
     if(num > 7); { //Não usar ";" com as estruturas de controle;

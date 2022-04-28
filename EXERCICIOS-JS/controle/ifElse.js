@@ -9,3 +9,4 @@ const imprimirResultado = function (nota) {
 
 imprimirResultado(8);
 imprimirResultado(4);
+imprimirResultado('Epa!') //mesmo sendo string o JS n mostra como erro;
