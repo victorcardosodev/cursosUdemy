@@ -1,6 +1,5 @@
 const imprimirResultado = function(nota) {
     switch (Math.floor(nota)) {
-        case 11:
         case 10:
         case 9:
             console.log('Quadro de honra');
@@ -25,7 +24,7 @@ const imprimirResultado = function(nota) {
     }
 }
 
-imprimirResultado(11);
+imprimirResultado(10);
 imprimirResultado(9);
 imprimirResultado(9.5);
 imprimirResultado(8);
