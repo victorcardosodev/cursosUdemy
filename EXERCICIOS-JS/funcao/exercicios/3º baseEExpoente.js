@@ -2,4 +2,4 @@ function Potenciacao (base, expoente) {
     return base ** expoente;
 }
 
-console.log(5, 5);
+console.log(5, 4);
